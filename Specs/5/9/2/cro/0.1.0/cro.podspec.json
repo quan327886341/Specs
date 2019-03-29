@@ -19,10 +19,5 @@
   },
   "ios": {
     "vendored_frameworks": "cro.framework"
-  },
-  "dependencies": {
-    "ReachabilitySwift": [
-      "~> 4.1.0"
-    ]
   }
 }
