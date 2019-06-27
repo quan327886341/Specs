@@ -6,17 +6,17 @@
   "homepage": "http://wiki.connect.qq.com",
   "license": {
     "type": "Copyright",
-    "text": "                    Copyright 2019 tencent.com. All rights reserved.\n"
+    "text": "Copyright 2019 tencent.com. All rights reserved."
   },
   "authors": {
-    "tencent": "2452831486@qq.com"
+    "tencent": "qq-open@qq.com"
   },
   "source": {
-    "http": "https://ntlogin.qq.com/test/QQOpenSDK.zip",
+    "http": "https://cgi.connect.qq.com/v5/website/app_get_sdk_download_url?name=iOS_SDK_CocoaPods_3.3.3",
     "type": "zip"
   },
   "platforms": {
-    "ios": "9.2"
+    "ios": "7.0"
   },
   "source_files": "QQOpenSDK/TencentOpenAPI.framework/Headers/*.{h}",
   "frameworks": [

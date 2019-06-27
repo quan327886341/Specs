@@ -3,7 +3,7 @@
   "version": "5.0.0",
   "summary": "CoreData extensions",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/Xiaoye220/CoreData",
+  "homepage": "https://github.com/Xiaoye220/JustCoreData",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "Xiaoye220": "576934532@qq.com"
   },
   "source": {
-    "git": "https://github.com/Xiaoye220/CoreData.git",
+    "git": "https://github.com/Xiaoye220/JustCoreData.git",
     "tag": "5.0.0"
   },
   "platforms": {
